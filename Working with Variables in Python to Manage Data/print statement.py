@@ -3,3 +3,7 @@ print("2. knead the dough for 10 minutues.")
 print("3. Add 3g of salt.")
 print("4. leave to rise for 2 hourse.")
 print("5. Bake at 200 degrees C for 30 minutues.")
+
+print('she said : "Hello" and then left')
+
+print("she said : \"Hello\" and then left")
