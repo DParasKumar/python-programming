@@ -7,3 +7,7 @@ print("5. Bake at 200 degrees C for 30 minutues.")
 print('she said : "Hello" and then left')
 
 print("she said : \"Hello\" and then left")
+
+print("A 'single quote' inside a double quote")
+
+print('a "double quoute" inside a single quote')
