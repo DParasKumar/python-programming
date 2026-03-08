@@ -1,2 +1,3 @@
-
-print(len (input("what is
+print(input())
+# print(input())
+# print(input())
