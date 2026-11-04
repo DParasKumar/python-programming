@@ -14,4 +14,9 @@ print(b)
 
 # Comparison Operators
 d = 5<4
+d = 5<=4
+d = 5>4
+d = 5>=4
+d = 5==4
+d = 5!=4
 print(d)
