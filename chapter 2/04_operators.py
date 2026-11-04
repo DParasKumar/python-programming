@@ -20,3 +20,24 @@ d = 5>=4
 d = 5==4
 d = 5!=4
 print(d)
+
+# Logical Operators
+e = True and False
+e = True or False
+print(e)
+
+# Truth table of'or' operator
+print(True or True)
+print(True or False)
+print(False or True)
+print(False or False)
+
+# truth table of 'and' operator
+print(True and True)
+print(True and False)
+print(False and True)
+print(False and False)
+
+# truth table of 'not' operator
+print(not True)
+print(not False)
